@@ -68,7 +68,7 @@ require (
 	github.com/golang/geo v0.0.0-20190916061304-5b978397cfec
 	github.com/golang/protobuf v1.5.2
 	github.com/golang/snappy v0.0.3
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/google/go-github/v32 v32.1.0
 	github.com/gopcua/opcua v0.1.13
 	github.com/gorilla/mux v1.7.3
@@ -77,7 +77,7 @@ require (
 	github.com/grid-x/modbus v0.0.0-20210224155242-c4a3d042e99b
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
 	github.com/harlow/kinesis-consumer v0.3.1-0.20181230152818-2f58b136fee0
-	github.com/hashicorp/consul/api v1.9.1
+	github.com/hashicorp/consul/api v1.13.0
 	github.com/hashicorp/go-msgpack v0.5.5 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/influxdata/go-syslog/v3 v3.0.0
@@ -102,7 +102,7 @@ require (
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369
 	github.com/mdlayher/apcupsd v0.0.0-20200608131503-2bf01da7bf1b
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
-	github.com/miekg/dns v1.1.31
+	github.com/miekg/dns v1.1.41
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/moby/ipvs v1.0.1
 	github.com/multiplay/go-ts3 v1.0.0
